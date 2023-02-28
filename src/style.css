@@ -1,0 +1,63 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.25%;
+}
+
+body {
+  font-family: serif;
+}
+
+.container {
+  max-width: 60rem;
+  margin: 20rem auto 0 auto;
+  background-color: #fff;
+  box-shadow: 0 0.3rem 3rem 0 rgba(0, 0, 0, 0.2);
+  border-radius: 0.4rem;
+  overflow-x: hidden;
+}
+
+.title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.8rem;
+  font-size: 1.2rem;
+}
+
+.to-do-input {
+  border: none;
+  padding: 0.8rem;
+  font-style: italic;
+  font-size: 1.6rem;
+  width: 70rem;
+  outline: none;
+}
+
+.list-element {
+  font-size: 1.5rem;
+  padding: 0.8rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.list-element div {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.delete-btn {
+  text-align: center;
+  background-color: #d8d8d8;
+  padding: 0.8rem;
+  font-size: 1.8rem;
+  color: #333;
+}
