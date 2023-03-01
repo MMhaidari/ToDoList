@@ -54,12 +54,21 @@ body {
   gap: 0.4rem;
 }
 
+.btn {
+  display: flex;
+  justify-content: center;
+}
+
 .delete-btn {
-  text-align: center;
-  background-color: #d8d8d8;
+  background: none;
+  border: none;
   padding: 0.8rem;
   font-size: 1.8rem;
   color: #333;
+}
+
+.delete-btn:hover {
+  cursor: pointer;
 }
 
 .add-to-do-form {
