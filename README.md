@@ -102,8 +102,6 @@ Clone this repository to your desired folder:
 
 click below if you have Contributions, issues, and feature requests are welcome!
 
-<a href="https://github.com/MMhaidari/ToDoList/issues">click here</a>
-
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project, please provide suggestions to help improve this project
