@@ -98,7 +98,10 @@ Clone this repository to your desired folder:
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Contributions, issues, and feature requests are welcome!
+click below if you have Contributions, issues, and feature requests are welcome!
+
+<a href="https://github.com/MMhaidari/ToDoList/issues">click here</a>
+
 
 ## ⭐️ Show your support <a name="support"></a>
 
