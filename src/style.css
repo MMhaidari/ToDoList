@@ -61,3 +61,34 @@ body {
   font-size: 1.8rem;
   color: #333;
 }
+
+.add-to-do-form {
+  display: flex;
+  justify-content: space-around;
+}
+
+.addbtn {
+  justify-self: flex-start;
+  margin-right: 30rem;
+  border: none;
+  background: none;
+}
+
+.addbtn:hover {
+  cursor: pointer;
+}
+
+.new-task-added {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 1.9rem;
+  padding: 0.8rem;
+}
+
+.new-task {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 2.2rem;
+}

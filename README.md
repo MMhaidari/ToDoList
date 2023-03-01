@@ -22,7 +22,7 @@
 
 > This is a Website for a online books library
 
-**portfolio Website** is a...
+**TO Do List Website** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -41,9 +41,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- [ ] **Home page**
 - [ ] **adding List**
-
+- [ ] **removing List**
+- [ ] **saving List into local storage**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -84,7 +84,9 @@ Clone this repository to your desired folder:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Pending**
+- [ ] **Home page**
+- [ ] **Drag and Drop**
+- [ ] **contact page**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -99,9 +101,6 @@ Clone this repository to your desired folder:
 ## 🤝 Contributing <a name="contributing"></a>
 
 click below if you have Contributions, issues, and feature requests are welcome!
-
-<a href="https://github.com/MMhaidari/ToDoList/issues">click here</a>
-
 
 ## ⭐️ Show your support <a name="support"></a>
 
